@@ -1,0 +1,6 @@
+ul {
+  list-style: disc;
+  display: flex;
+  flex-direction: column;
+  @apply ml-4
+}

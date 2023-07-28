@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  scroll-behavior: smooth
+}
+
+* {
+  scroll-behavior: smooth
+}
+
+a {
+  @apply text-sky-500;
+}

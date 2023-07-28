@@ -1,0 +1,4 @@
+*/node_modules
+/screenshots
+/backend/pb_data/storage
+/backend/pb_migrations
